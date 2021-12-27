@@ -1,0 +1,20 @@
+# This program prints Hello, world!
+
+print('Hello, world!')
+# variables
+
+a, b, c = 5, 3.2, "Hello"
+
+print (a)
+print (b)
+print (c)
+
+# Data Types
+a = 5
+print(a, "is of type", type(a))
+
+a = 2.0
+print(a, "is of type", type(a))
+
+a = 1+2j
+print(a, "is complex number?", isinstance(1+2j,complex))

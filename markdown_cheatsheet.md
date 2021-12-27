@@ -19,3 +19,16 @@ here goes your code
 *ANOTHER LINE BUT ITALIC*
 
 ***LINE WITH BOTH BOLD AND ITALIC***
+
+```
+Code Block
+```
+
+>indent
+>>indent
+>>> indent
+>>indent
+>indent
+
+Subscript <sub>The quick brown fox jumps over the lazy dog.</sub>
+Superscript <sup>The quick brown fox jumps over the lazy dog.</sup>

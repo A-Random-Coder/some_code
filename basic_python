@@ -18,3 +18,20 @@ print(a, "is of type", type(a))
 
 a = 1+2j
 print(a, "is complex number?", isinstance(1+2j,complex))
+
+# LISTS
+
+thislist = ["apple", "banana", "cherry"]
+print(thislist)
+
+# CLASSES
+
+class Person:
+  def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+p1 = Person("John", 36)
+
+print(p1.name)
+print(p1.age)
